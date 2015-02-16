@@ -1,3 +1,7 @@
 __author__ = 'fc5fz'
 
-print("hello")
+
+def greeting(msg):
+    print(msg)
+
+greeting("hello")
